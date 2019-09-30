@@ -1,0 +1,56 @@
+#bank{
+    float: right;
+    display: block;
+background: url('/pictures/garbage.png');
+padding: 34px;
+    background-size: 100%;
+}
+#bank:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+.template h2{
+   
+    color:gray;
+    font-size:23pt;
+   margin-top:4px;
+
+
+}
+.template h2,input[type='submit']{
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+
+}
+.template,.template h2, h2{
+ text-align: center;
+}
+.template img{
+    margin:4% 0;
+}
+.template{
+    padding:11px;
+}
+.template div{
+    border:1px solid #c1c0c0;
+    border-radius: 4px;
+    box-shadow: 3px 4px 12px #949090;
+}
+input[type='submit']{
+margin-bottom: 14px;
+margin-top: -19px;
+background-color: #6cc17f;
+
+}
+.container-fluid>h2{
+    color:#606780;
+    margin: 34px 0 35px 0;
+}
+.active{
+   
+    color: white;
+}
+header{
+  background: #606780;   
+}
