@@ -1,0 +1,7 @@
+{
+    "name": "vendor2/task",
+    "require": {
+        "noetix/simple-orm": "dev-master",
+        "phroute/phroute": "^2.1"
+    }
+}
